@@ -18,4 +18,4 @@ This UX course provides an introduction to the fields of UX research and design.
 - Key features of human behavior and describe their impact on the design of interactive systems 
 - Techniques for critiquing and designing interactive systems based on human capabilities and behavior 
 
-**To Know More:** [click here](https://www.coursera.org/learn/introtoux-principles-and-processes/)
+**To Know More:** ![click here](https://github.com/Akash-goyal-github/Coursera_User_Experience_Course/blob/master/Course_Introduction%20to%20User%20Experience%20Principles%20and%20Processes%20_BY_University_of_Michigan/About.PNG)
